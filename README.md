@@ -1,6 +1,6 @@
 # ASP_Assignment
 this is my api assignment
-I have also push my visual studio projectproject
+I have also push my visual studio project
 Named as project1
 
 ```
